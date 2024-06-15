@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\VisionSync\\visionsync-server\\logs\\winston\\errors\\.f32ebe490cc07cbc2945e675aef2bcf0faf8b503-audit.json",
+    "files": [
+        {
+            "date": 1718458711429,
+            "name": "E:\\VisionSync\\visionsync-server\\logs\\winston\\errors\\phu-2024-15-06-19-error.log",
+            "hash": "6d6619d0f3aa22619d4b2bd4ad476b3e0c2b2d57d843bc5bad0c8b2cdc7fae00"
+        },
+        {
+            "date": 1718460743239,
+            "name": "E:\\VisionSync\\visionsync-server\\logs\\winston\\errors\\phu-2024-15-06-20-error.log",
+            "hash": "1510929c5f85ad9354ba5d89b8684278cb22d98a08c3079d4bba5e4951e8f0da"
+        },
+        {
+            "date": 1718466050177,
+            "name": "E:\\VisionSync\\visionsync-server\\logs\\winston\\errors\\phu-2024-15-06-21-error.log",
+            "hash": "c4237a0d1ae5c3950a34617100149b389827771c6f273b73e01bdd19e6d3528f"
+        }
+    ],
+    "hashType": "sha256"
+}

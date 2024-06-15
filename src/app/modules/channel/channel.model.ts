@@ -22,7 +22,7 @@ export const ChannelSchema = new Schema<IChannel, ChannelModel>(
     },
     creatorId: {
       type: Schema.Types.ObjectId,
-      ref: 'AcademicFaculty',
+      ref: 'User',
       required: true,
     },
   },

@@ -1,4 +1,3 @@
-// user interface
 import { Model, Types } from 'mongoose';
 import { IVideo } from '../video/video.interface';
 import { IChannel } from '../channel/channel.interface';
